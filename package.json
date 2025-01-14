@@ -1,0 +1,21 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with Express server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.21.2",
+    "g": "^2.0.1",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.4",
+    "nodemon": "^3.1.9"
+  },
+  "author": "",
+  "license": "ISC"
+}
