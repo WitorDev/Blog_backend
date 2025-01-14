@@ -1,4 +1,4 @@
-# My Node Project
+# Blog
 
 This is a simple Node.js project that sets up an Express server.
 
